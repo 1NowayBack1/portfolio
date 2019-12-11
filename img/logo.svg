@@ -1,0 +1,17 @@
+<svg width="139" height="35" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="37" width="141" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_3" y="22.078125" x="-0.375" stroke-width="0" stroke="#5156e0" fill="#5156e0">No</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="19" id="svg_4" y="31.203125" x="18.875" stroke-width="0" stroke="#5156e0" fill="#5156e0">way</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_5" y="34.453125" x="53.5" stroke-width="0" stroke="#5156e0" fill="#5156e0">Back</text>
+  <path stroke="#5156e0" transform="rotate(39.67255401611328 131.49999999999997,6.248718738555905) " id="svg_6" d="m126.704372,5.175834l4.795623,-3.47189l4.795634,3.47189l-1.831761,5.61766l-5.927729,0l-1.831766,-5.61766z" stroke-width="0" fill="#5156e0"/>
+ </g>
+</svg>
