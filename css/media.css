@@ -24,9 +24,8 @@
 
     .site-main > .services-area .services{
         width: 13rem;
-    }
+    }  
 }
-
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 792px){
@@ -60,6 +59,12 @@
     .site-main .subscribe-us-area .subscribe form .input-textbox input{
         width: 20rem;
         margin: 5%;
+    }
+    .site-main .site-banner .site-title h1 {
+    font-size: 4rem;
+}
+    img{
+        width: 60%;
     }
 }
 
